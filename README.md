@@ -1,2 +1,2 @@
 # Data Science Projects
-Directory of completed Data Science projects by Talia Berler
+Directory of completed data science projects by Talia Berler
