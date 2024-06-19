@@ -4,3 +4,5 @@ The study scraped 6 months of tweets posted by the new outlets which mentioned t
 
 The findings of the analysis are summarized in the news-bias.pdf file. 
 The code for the analysis may be found in the NewsBias.ipynb python notebook file.
+
+Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
